@@ -7,9 +7,10 @@ funcionalidades para links âncora (para encaminhar para outras páginas), sendo
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
-⬇️
-Acesse o site aqui: https://alura-plus-delta-virid.vercel.app/
+
+➡️ Acesse o site aqui: https://alura-plus-delta-virid.vercel.app/
 
 <br>
 
-![Foto do Certificado](img/Certificado-Curso.png)
+⬇️ Certificado do Curso:
+![Foto do Certificado](img/certificado-aluraplus.png)
