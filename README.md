@@ -9,3 +9,7 @@ funcionalidades para links âncora (para encaminhar para outras páginas), sendo
 
 ⬇️
 Acesse o site aqui: https://alura-plus-delta-virid.vercel.app/
+
+<br>
+
+![Foto do Certificado](img/Certificado-Curso.png)
